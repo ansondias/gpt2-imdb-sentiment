@@ -1,0 +1,15 @@
+# Python / virtualenv
+.venv*/
+__pycache__/
+*.pyc
+
+# Saved model weights (regenerate by running the notebook / run_finetune.py)
+gpt2-imdb-sentiment/
+gpt2-imdb-finetuned/
+
+# Logs
+*.log
+nohup.out
+
+# OS
+.DS_Store

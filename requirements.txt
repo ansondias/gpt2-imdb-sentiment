@@ -1,0 +1,8 @@
+accelerate==1.14.0
+datasets==5.0.1
+evaluate==0.4.6
+gradio==6.25.0
+numpy==2.4.6
+scikit-learn==1.9.0
+torch==2.13.0
+transformers==5.15.1
